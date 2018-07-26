@@ -8,6 +8,11 @@ hello worldd...
 
 
 
+
+stash changesssssssssss
+
+
+
 <<<<<<< HEAD
 this is of b2 file....after changing..
 =======

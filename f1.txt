@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 hello this is master file........
+=======
+hello this is master file.......
+>>>>>>> cfc96e6abba5f4c0654c377f9b6fc6283363adc0
 
 
 
 
 
 
+<<<<<<< HEAD
 file is b1
+=======
+hello.......this is change..........
+>>>>>>> cfc96e6abba5f4c0654c377f9b6fc6283363adc0

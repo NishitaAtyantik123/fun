@@ -4,6 +4,9 @@ hello ....file 2 in master...
 
 
 
+hello worldd...
+
+
 
 <<<<<<< HEAD
 this is of b2 file....after changing..
